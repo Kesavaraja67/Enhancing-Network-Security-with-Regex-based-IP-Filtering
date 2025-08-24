@@ -32,25 +32,25 @@ Run the application:
 python app.py
 
 Example output:
-IP 192.168.0.1 → Allowed  
-IP 203.0.113.45 → Blocked  
+-IP 192.168.0.1 → Allowed  
+-IP 203.0.113.45 → Blocked  
 
-🌐 Live Demo
+## 🌐 Live Demo
 
-Access the deployed version here:
-👉 Live Demo
+-Access the deployed version here:
+-👉 Live Demo
 
-📂 Project Structure
+## 📂 Project Structure
 .
 ├── app.py                # Core script
 ├── requirements.txt      # Dependencies
 ├── README.md             # Documentation
 └── .gitignore            # Git ignore file
 
-👨‍💻 Author
+## 👨‍💻 Author
 
-Developed by Kesavaraja
+-Developed by Kesavaraja
 
-📜 License
+## 📜 License
 
-This project is licensed under the MIT License.
+-This project is licensed under the MIT License.
