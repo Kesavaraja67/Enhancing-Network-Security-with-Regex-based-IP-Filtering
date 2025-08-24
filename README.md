@@ -43,7 +43,7 @@ Access the deployed version here:
 👉 Live Demo
 
 ## 📂 Project Structure
-.
+
 ├── app.py                # Core script
 
 ├── requirements.txt      # Dependencies
