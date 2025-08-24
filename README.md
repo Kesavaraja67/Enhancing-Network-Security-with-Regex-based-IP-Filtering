@@ -39,13 +39,17 @@ IP 203.0.113.45 → Blocked
 ## 🌐 Live Demo
 
 Access the deployed version here:
+
 👉 Live Demo
 
 ## 📂 Project Structure
 .
 ├── app.py                # Core script
+
 ├── requirements.txt      # Dependencies
+
 ├── README.md             # Documentation
+
 └── .gitignore            # Git ignore file
 
 ## 👨‍💻 Author
