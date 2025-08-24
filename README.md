@@ -42,10 +42,10 @@ Example output:
 
 # 📂 Project Structure
 .
-├── app.py                # Core script
-├── requirements.txt      # Dependencies
-├── README.md             # Documentation
-└── .gitignore            # Git ignore file
+-├── app.py                # Core script
+-├── requirements.txt      # Dependencies
+-├── README.md             # Documentation
+-└── .gitignore            # Git ignore file
 
 ## 👨‍💻 Author
 
