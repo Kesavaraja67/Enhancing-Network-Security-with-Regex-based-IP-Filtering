@@ -32,6 +32,7 @@ Run the application:
 python app.py
 
 Example output:
+
 IP 192.168.0.1 → Allowed  
 IP 203.0.113.45 → Blocked  
 
