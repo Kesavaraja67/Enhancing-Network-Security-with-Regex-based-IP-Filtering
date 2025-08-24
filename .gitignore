@@ -1,0 +1,51 @@
+# Python
+_pycache_/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+*.egg-info/
+*.egg
+*.manifest
+*.spec
+
+# Environment
+.env
+.venv/
+venv/
+ENV/
+env/
+.conda/
+*.sqlite3
+
+# Streamlit cache & logs
+.streamlit/
+logs/
+.cache/
+
+# Jupyter / IPython
+.ipynb_checkpoints/
+profile_default/
+ipython_config.py
+
+# VS Code / PyCharm / Editors
+.vscode/
+.idea/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data & Exports
+*.csv
+*.txt
+*.json
+*.xlsx
+*.tsv
+*.log
+
+# Virtualenv / Poetry / Pipenv
+poetry.lock
+Pipfile.lock
+pip-wheel-metadata/
