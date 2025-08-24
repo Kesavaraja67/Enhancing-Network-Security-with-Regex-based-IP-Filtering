@@ -39,7 +39,6 @@ Thumbs.db
 
 # Data & Exports
 *.csv
-*.txt
 *.json
 *.xlsx
 *.tsv
