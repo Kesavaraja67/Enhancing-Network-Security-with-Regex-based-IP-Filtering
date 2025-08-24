@@ -29,16 +29,9 @@ The system can be integrated into applications or security infrastructures to pr
    git clone https://github.com/Kesavaraja67/Enhancing-Network-Security-with-Regex-based-IP-Filtering.git
    cd Enhancing-Network-Security-with-Regex-based-IP-Filtering
 Run the application:
-
-bash
-Copy
-Edit
 python app.py
-Example output:
 
-nginx
-Copy
-Edit
+Example output:
 IP 192.168.0.1 → Allowed  
 IP 203.0.113.45 → Blocked  
 
