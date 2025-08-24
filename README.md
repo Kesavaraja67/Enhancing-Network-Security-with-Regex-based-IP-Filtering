@@ -54,7 +54,7 @@ Access the deployed version here:
 
 ## 👨‍💻 Author
 
-Developed by Kesavaraja
+Developed by Kesavaraja M
 
 ## 📜 License
 
