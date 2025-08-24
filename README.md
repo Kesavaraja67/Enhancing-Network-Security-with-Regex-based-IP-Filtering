@@ -40,7 +40,7 @@ Example output:
 -Access the deployed version here:
 -👉 Live Demo
 
-## 📂 Project Structure
+# 📂 Project Structure
 .
 ├── app.py                # Core script
 ├── requirements.txt      # Dependencies
