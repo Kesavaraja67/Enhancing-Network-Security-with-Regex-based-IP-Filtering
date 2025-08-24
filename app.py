@@ -5,7 +5,7 @@ from typing import List, Dict, Any, Tuple
 
 import pandas as pd
 import streamlit as st
-
+from dotenv import load_dotenv
 
 # Use the safer third-party "regex" engine which supports timeouts
 try:
@@ -14,8 +14,9 @@ try:
 except Exception:
     import re  # fallback (no timeout)
     HAS_REGEX = False
-
-
+    
+# ---------- Load configuration from .env ----------
+load_dotenv()
 APP_NAME = os.getenv("APP_NAME", "Regex IP Filter")
 ENABLE_IPV6 = os.getenv("ENABLE_IPV6", "false").strip().lower() == "true"
 REGEX_TIMEOUT_MS = int(os.getenv("REGEX_TIMEOUT_MS", "50"))
