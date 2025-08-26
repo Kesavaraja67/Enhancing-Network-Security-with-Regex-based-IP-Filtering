@@ -7,6 +7,14 @@ The system can be integrated into applications or security infrastructures to pr
 
 ---
 
+## 🌐 Live Demo
+
+Access the deployed version here:
+
+👉 Live Demo
+
+---
+
 ## ⚙️ Features
 - Regex-driven IP validation and filtering  
 - Block or allow specific IP address patterns  
@@ -35,12 +43,6 @@ Example output:
 
 IP 192.168.0.1 → Allowed  
 IP 203.0.113.45 → Blocked  
-
-## 🌐 Live Demo
-
-Access the deployed version here:
-
-👉 Live Demo
 
 ## 📂 Project Structure
 
