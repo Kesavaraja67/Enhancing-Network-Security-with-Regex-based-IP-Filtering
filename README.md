@@ -11,7 +11,7 @@ The system can be integrated into applications or security infrastructures to pr
 
 Access the deployed version here:
 
-👉 Live Demo
+👉 Live Demo (https://enhancing-network-security-with-regex-based-ip-filtering.streamlit.app/)
 
 ---
 
