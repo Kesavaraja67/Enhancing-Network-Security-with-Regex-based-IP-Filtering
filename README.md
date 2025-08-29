@@ -40,19 +40,19 @@ Run the application:
 python app.py
 
 Example output:
-
+~~~
 IP 192.168.0.1 → Allowed  
 IP 203.0.113.45 → Blocked  
+~~~
 
 ## 📂 Project Structure
 
+~~~
 ├── app.py                # Core script
-
 ├── requirements.txt      # Dependencies
-
 ├── README.md             # Documentation
-
 └── .gitignore            # Git ignore file
+~~~
 
 ## 👨‍💻 Author
 
