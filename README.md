@@ -7,6 +7,14 @@ The system can be integrated into applications or security infrastructures to pr
 
 ---
 
+## 🌐 Live Demo
+
+Access the deployed version here:
+
+👉 Live Demo (https://enhancing-network-security-with-regex-based-ip-filtering.streamlit.app/)
+
+---
+
 ## ⚙️ Features
 - Regex-driven IP validation and filtering  
 - Block or allow specific IP address patterns  
@@ -32,25 +40,19 @@ Run the application:
 python app.py
 
 Example output:
-
+~~~
 IP 192.168.0.1 → Allowed  
 IP 203.0.113.45 → Blocked  
-
-## 🌐 Live Demo
-
-Access the deployed version here:
-
-👉 Live Demo
+~~~
 
 ## 📂 Project Structure
 
+~~~
 ├── app.py                # Core script
-
 ├── requirements.txt      # Dependencies
-
 ├── README.md             # Documentation
-
 └── .gitignore            # Git ignore file
+~~~
 
 ## 👨‍💻 Author
 
